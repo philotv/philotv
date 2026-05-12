@@ -22,10 +22,11 @@ html_favicon = '_static/favicon.png'
 # Google & Bing Verification Meta Tags
 html_context = {
     "meta_tags": """
-    <meta name="google-site-verification" content="Cva8KgvW-eQpRtsdf8vIcSb023IJtLJfC8PxJAlQ0mc" />
-    <meta name="msvalidate.01" content="739245F5D54BCBF40AC056DC0CBF5710" />
+    
+<meta name="google-site-verification" content="ySGxGN4oLx8a2r8biPwCqpOqWCg1LuRj0sioc_kij-M" />
+    <meta name="msvalidate.01" content="99668E7FC0E0C7162DF10466BF3247E7" />
     """
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://helpduckduckgo.readthedocs.io/en/latest/'
+html_baseurl = 'https://userphilo.readthedocs.io/en/latest/'
